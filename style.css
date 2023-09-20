@@ -1,0 +1,55 @@
+body {
+font-family: 'Montserrant', sans-serif;
+background: linear-gradient(rgb(245, 244, 244));
+}
+header {
+background: rgb(173, 35, 173);
+width: auto;
+padding: 2px 0 0 20px;
+text-align: center;
+border: 1px solid;
+}
+
+.meu-cabecalho {
+width: auto;
+}
+img {
+margin: 10px 0 0 0;
+position: relative;
+right: 8.4em;
+border: 1px solid;
+border-radius: 10px;
+}
+
+h1 {
+margin: auto;
+position: relative;
+left: 1em;
+bottom: 4em;
+font-weight: bold;
+font-size: 1em;
+}
+.container-conteudo {
+text-align: center;
+
+line-height: 1em;
+width: auto;
+}
+h2 {
+font-weight: bold;
+margin: 50px 0 0  0 ;
+background-color: rgb(146, 204, 255)
+;
+}
+li p {
+line-height: 2em;
+}
+.container-contato {
+margin: 0 0 0 10px ;
+text-align: center;
+}
+
+footer {
+background: rgb(146, 204, 255);
+width: auto;
+}
